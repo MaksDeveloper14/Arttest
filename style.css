@@ -341,4 +341,7 @@ a {
 		height: 290px;
 		right: 0;
 	}
+	.section1__title {
+		margin-left: 20px;
+	}
 }
