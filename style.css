@@ -106,10 +106,12 @@ a {
 	background-color: #edeff2;;
 }
 .header__right-content {
-	width: 400px;
+	width: 60%;
+	/*width: 400px;*/
 }
 .header__right-content img {
 	width: 100%;
+	border: solid 2px black;
 }
 
 
@@ -288,6 +290,6 @@ a {
 
 
 
-@media (max-width: 1030px) {
+@media (max-width: 850px) {
 	
 }
