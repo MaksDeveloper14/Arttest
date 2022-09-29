@@ -329,6 +329,9 @@ a {
 	.section2-right {
 		padding-left: 56px;
 	}
+	.section1__title {
+		margin-left: 20px;
+	}
 }
 
 @media (max-width: 400px) { 
@@ -341,7 +344,19 @@ a {
 		height: 290px;
 		right: 0;
 	}
-	.section1__title {
-		margin-left: 20px;
+	.footer_navigation-site-item {
+		margin-right: 10px;
+	}
+	.footer_navigation-site-item a {
+		font-size: 14px;
+	}
+	.footer_navigation-site {
+		display: block;
+	}
+	.section2-right {
+		padding-left: 40px;
+	}
+	.footer_navigation-site-item {
+		margin-bottom: 20px;
 	}
 }
